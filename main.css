@@ -1,0 +1,14 @@
+.search-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.search-items .item-link {
+  text-decoration: none;
+  color: #333;
+}
+
+.search-items .item:hover {
+  background-color: #e0e0e0;
+}
